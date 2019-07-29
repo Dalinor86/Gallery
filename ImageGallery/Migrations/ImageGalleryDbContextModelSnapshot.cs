@@ -27,7 +27,7 @@ namespace ImageGallery.Migrations
 
                     b.Property<DateTime>("Created");
 
-                    b.Property<string>("Tittle");
+                    b.Property<string>("Title");
 
                     b.Property<string>("Url");
 
